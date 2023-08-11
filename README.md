@@ -2,9 +2,9 @@
 
 This is the part one out of four of my web Auto scraper project, focused on automated downloading videos from YouTube (perhaps other platforms in the near future),
 by given inputed keywords.
-Part Two would be about reiterating the videos into other creative concept with the help of AI's.
-Part Three would be distributing it to different platforms.
-Part Four would wrap all the commands in the program into a sleek and easy-to-use GUI.
+- Part Two would be about reiterating the videos into other creative concept with the help of AI's.
+- Part Three would be distributing it to different platforms.
+- Part Four would wrap all the commands in the program into a sleek and easy-to-use GUI.
 
 ## Project Objective
 The primary objective of this part is to create a robust and automated system for searching and downloading videos from YouTube, based on user input.
